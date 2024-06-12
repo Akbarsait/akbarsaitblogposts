@@ -14,3 +14,4 @@ I wanted to share that I completed my ColdFusion 8 Certification and became an A
 
 **Related Post:**
 - [Scaled Agile Certified Scrum Master](/blog/2024/01/15/scaledagile-safe-ssm-certification/)
+- [Microsoft Certified Fabric Analytics Engineer](/blog/2024/06/10/microsoft-certified-fabri-analytics-engineer/)
